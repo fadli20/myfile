@@ -1844,7 +1844,8 @@ https://stream.zeehanzgadget.com/ria.mpd
 https://stream.zeehanzgadget.com/prima.mpd
 
 #EXTINF:-1 tvg-id="105" tvg-name="Astro Prima HD" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",ASTRO PRIMA HD
-http://68.219.213.153:80/hxWZ1V47Zg/cxqETRonlP/11720
+#http://68.219.213.153:80/hxWZ1V47Zg/cxqETRonlP/11720
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1005/default_primary.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
